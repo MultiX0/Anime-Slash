@@ -84,6 +84,9 @@ a:visited {
 .block-title {
   margin-bottom: 45px;
 }
+.warning {
+  color: #fff;
+}
 .block-title__title {
   margin: 0;
   margin-top: -10px;
